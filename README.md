@@ -18,7 +18,7 @@ python -m venv venv
 
 pip install -r requirements.txt
 
-## Rodar migração
+### Rodar migração
 
 python manage.py migrate
 
